@@ -6,8 +6,8 @@
         "mdisk",
         "shortner"
     ],
-    "website": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
-    "repository": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
+    "website": "https://github.com/DeepSandhra/MdiskVideoBot",
+    "repository": "https://github.com/DeepSandhra/MdiskVideoBot",
     "logo": "https://telegra.ph/file/51a84cdd8254ee0406683.jpg", 
     "env": {
         "BOT_TOKEN": {
